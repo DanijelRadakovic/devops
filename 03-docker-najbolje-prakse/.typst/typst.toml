@@ -1,0 +1,5 @@
+[package]
+name = "docker-best-practise"
+version = "1.0.0"
+entrypoint = "main.typ"
+compiler = "0.14.2"
